@@ -1,2 +1,6 @@
 # Problem-Solving
-Some Problems that I have solved 
+Competitive programming problems I have solved using C++. 
+
+
+
+
